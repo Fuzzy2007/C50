@@ -1,0 +1,38 @@
+
+h1{
+ color:rgb(163, 34, 34);
+}
+{
+    border:solid;
+}
+
+.header{
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    background-color: cornflowerblue;
+
+
+}
+.footer{
+    background-color: crimson;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.games{
+    background-color: darkgray;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.item{
+background-color:darkslateblue;
+}
+
+h2,p{
+    text-align: center;
+}
